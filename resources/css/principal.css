@@ -1,0 +1,12 @@
+    .btn-link-custom {
+        font-weight: bold;
+        margin: 0 10px;
+        text-decoration: none;
+        color: #000;
+        padding: 10px;
+    }
+
+    .btn-link-custom:hover {
+        text-decoration: none;
+        color: #007bff;
+    }
